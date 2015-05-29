@@ -20,7 +20,7 @@ public class WeekdayName {
 		System.out.println("Weekday -1: error");
 	
 	 int weekday=input.nextInt();
-	
+
 	 if(weekday==1){
 		 
 		 System.out.println("Today is a Sunday!");
